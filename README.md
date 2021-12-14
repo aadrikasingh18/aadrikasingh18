@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aadrikasingh18/aadrikasingh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### (नमस्ते) Hi there, I am Aadrika Singh 👋
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
@@ -23,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React
 - 🌱 I’m Junior Year B.Tech Student
-- ⚡ Fun fact: Loves MultiTasking
+- ⚡ Fun fact: Loves Reading
 
 [![website](https://img.shields.io/website?label=sanskarsri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskar-sri.herokuapp.com/)
 
@@ -47,7 +32,6 @@ const Sanskarsri = {
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
@@ -70,17 +54,10 @@ const Sanskarsri = {
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 ## Some Stats:
 
 <img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
-
- <div align="center"> 
-<h3> Show some ❤️ by starring some of the repositories!</h3>
-</div>
 
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
