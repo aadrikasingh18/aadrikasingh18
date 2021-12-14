@@ -29,17 +29,16 @@
 
 <br />
 
-## Some Stats:
+## &#x1f4c8; ⚡️GitHub Stats
 
 <img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true" />
 
-## &#x1f4c8; ⚡️GitHub Stats
-<a href="https://github.com/nishtha2405">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha2405&hide=java,html&theme=onedark" />
+<a href="https://github.com/aadrikasingh18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&hide=java,html&theme=onedark" />
 </a>
 <br><br>
-<a href="https://github.com/nishtha2405">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nishtha2405&theme=onedark&count_private=true" alt="Nishtha's GitHub Stats" />
+<a href="https://github.com/aadrikasingh18">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=onedark&count_private=true" alt="Aadrika's GitHub Stats" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
