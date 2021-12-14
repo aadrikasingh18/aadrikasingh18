@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### (नमस्ते) Hi there, I am Aadrika Singh 👋
+### I am Aadrika Singh 👋
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 ## I'm a Student and Developer:
 
 - 🔭 I’m currently working on React
-- 🌱 I’m Junior Year B.Tech Student
+- 🌱 I’m Sophomore B.Tech Student
 - ⚡ Fun fact: Loves Reading
 
 ## Connect with me:
@@ -26,6 +26,8 @@
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+
+<br />
 
 ## Some Stats:
 
