@@ -33,11 +33,6 @@
 
 <img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true" />
 
-<a href="https://github.com/aadrikasingh18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&hide=java,html,css,c,javascript&theme=darcula" />
-</a>
-<br>
-
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
 [email]: mailto:aadrikas16@gmail.com
