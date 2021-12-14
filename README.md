@@ -12,23 +12,6 @@
 
 [![website](https://img.shields.io/website?label=sanskarsri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sanskar-sri.herokuapp.com/)
 
-```javascript
-const Sanskarsri = {
-  skills: ["Full stack developer", "Competitve Coder"],
-  improving: "true",
-  programming: {
-    languages: [
-      "Javascript",
-      "ReactJs",
-      "BootStrap",
-      "C",
-      "CSS",
-    ],
-    tools: ["VSCode"],
-  },
-};
-```
-
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -57,7 +40,7 @@ const Sanskarsri = {
 
 ## Some Stats:
 
-<img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanskarsri&count_private=true&show_icons=true&hide_border=true" />
+<img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
