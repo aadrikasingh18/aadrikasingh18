@@ -33,6 +33,10 @@
 
 <img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true" />
 
+<br />
+
+![Aadrika's's github activity graph](https://activity-graph.herokuapp.com/graph?username=aadrikasingh18&theme=react-dark&hide_border=true&area=true)
+
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
 [email]: mailto:aadrikas16@gmail.com
