@@ -29,17 +29,14 @@
 
 <br />
 
-## &#x1f4c8; ⚡️GitHub Stats
+## Some Stats:
 
 <img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true" />
 
 <a href="https://github.com/aadrikasingh18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&hide=java,html&theme=onedark" />
 </a>
-<br><br>
-<a href="https://github.com/aadrikasingh18">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=onedark&count_private=true" alt="Aadrika's GitHub Stats" />
-</a>
+<br>
 
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
