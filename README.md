@@ -4,13 +4,13 @@
 <h1>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 </div>
 
-## I am Aadrika Singh !
+## I'm Aadrika Singh !
 
-## I'm a Student and Developer:
+## I'm a Student and a Developer :
 
 - 🔭 I’m currently working on React
 - 🌱 I’m Sophomore B.Tech Student
-- ⚡ Fun fact: Loves Reading
+- ⚡ Fun fact : Loves Reading
 
 ## Connect with me:
 
