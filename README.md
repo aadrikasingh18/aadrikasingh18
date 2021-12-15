@@ -1,10 +1,10 @@
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+
 <div align="center">
 <h1>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 </div>
 
-### I am Aadrika Singh 👋
-
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+### I am Aadrika Singh !
 
 ## I'm a Student and Developer:
 
