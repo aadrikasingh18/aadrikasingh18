@@ -44,6 +44,8 @@
 
 ![Aadrika's's github activity graph](https://activity-graph.herokuapp.com/graph?username=aadrikasingh18&theme=react-dark&hide_border=true&area=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumana2001&layout=compact&theme=radical)](https://github.com/sumana2001/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
 [email]: mailto:aadrikas16@gmail.com
