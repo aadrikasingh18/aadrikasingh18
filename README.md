@@ -39,11 +39,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=react&count_private=true" alt="Aadrika's GitHub Stats" />
 </a>
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&theme=react)](https://github.com/aadrikasingh18/github-readme-stats)
-
-<br />
 
 ![Aadrika's's github activity graph](https://activity-graph.herokuapp.com/graph?username=aadrikasingh18&theme=react-dark&hide_border=true&area=true)
 
