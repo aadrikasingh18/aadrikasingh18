@@ -36,10 +36,8 @@
 <a href="https://github.com/nishtha2405">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=react&count_private=true" alt="Aadrika's GitHub Stats" />
 </a>
-
-
+<hr />
 <br />
-
 <br />
 
 ![Aadrika's's github activity graph](https://activity-graph.herokuapp.com/graph?username=aadrikasingh18&theme=react-dark&hide_border=true&area=true)
