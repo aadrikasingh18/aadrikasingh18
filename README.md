@@ -33,7 +33,7 @@
 
 ## Some Stats:
 
-<img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true" />
+<img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&theme=react-dark&hidecount_private=true&show_icons=true&hide_border=true" />
 
 <br />
 
