@@ -34,7 +34,7 @@
 ## Some Stats:
 
 <a href="https://github.com/nishtha2405">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nishtha2405&theme=radical&count_private=true" alt="Nishtha's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nishtha2405&theme=react&count_private=true" alt="Nishtha's GitHub Stats" />
 </a>
 
 <img alt="Aadrika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&theme=react-dark&hidecount_private=true&show_icons=true&hide_border=true" />
