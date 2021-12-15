@@ -43,4 +43,4 @@
 
 [email]: mailto:aadrikas16@gmail.com
 
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/aadrikasingh18&theme=react/count.svg) people to checkout my profile :heart:
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/aadrikasingh18&theme=react-dark&hide/count.svg) people to checkout my profile :heart:
