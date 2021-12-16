@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on React
 - 🌱 I’m Sophomore B.Tech Student
-- ⚡ Fun fact : Loves Reading
+- ⚡ Fun fact : Loves Reading and Travelling
 
 ## Connect with me:
 
