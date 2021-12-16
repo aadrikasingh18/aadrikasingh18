@@ -49,5 +49,3 @@
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
 [email]: mailto:aadrikas16@gmail.com
-
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/aadrikasingh18&theme=react/count.svg) people to checkout my profile :heart:
