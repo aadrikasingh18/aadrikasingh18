@@ -53,6 +53,7 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![Mohak's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteHatpro)](https://github.com/whiteHatpro/github-readme-stats)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=whiteHatpro&theme=cobalt)](https://github.com/whiteHatpro)
-</div>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
