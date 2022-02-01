@@ -49,6 +49,3 @@
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
 [email]: mailto:aadrikas16@gmail.com
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
