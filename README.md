@@ -60,6 +60,5 @@
 
 [email]: mailto:aadrikas16@gmail.com
 
-<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadrikasingh18.aadrikasingh18)
