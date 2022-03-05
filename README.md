@@ -58,6 +58,3 @@
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
 [email]: mailto:aadrikas16@gmail.com
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadrikasingh18.aadrikasingh18)
