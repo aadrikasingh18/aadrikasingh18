@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 <div align="center">
-<h1>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /></h1>
+<h1>Hi there!</h1>
 </div>
 
 ## I'm Aadrika Singh !
