@@ -8,8 +8,8 @@
 
 ## I'm a Student and a Developer :
 
-- 🔭 I’m currently working on React
-- 🌱 I’m Sophomore B.Tech Student
+- 🔭 I’m currently working on React.Js
+- 🌱 I’m Pre Final Year B.Tech Student
 - ⚡ Fun fact : Loves Reading and Travelling
 
 ## Connect with me :
