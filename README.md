@@ -53,9 +53,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&theme=react)](https://github.com/aadrikasingh18/github-readme-stats)
 
-![Aadrika's's github activity graph](https://activity-graph.herokuapp.com/graph?username=aadrikasingh18&theme=react-dark&hide_border=true&area=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aadrika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aadrikasingh18&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
 
