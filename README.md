@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 <div align="center">
-<h1>Hi there!</h1>
+<h1>Hello there!</h1>
 </div>
 
 ## I'm Aadrika Singh !
 
-## I'm a Student and a Developer :
+## I'm a student and a Developer :
 
 - 🔭 I’m currently working on React.Js
 - 🌱 I’m Pre Final Year B.Tech Student
