@@ -6,7 +6,7 @@
 
 ## I'm Aadrika Singh !
 
-## I'm a student and a Developer :
+## I'm a student and a  :
 
 - 🔭 I’m currently working on React.Js
 - 🌱 I’m Pre Final Year B.Tech Student
