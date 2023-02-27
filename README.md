@@ -42,8 +42,6 @@
 
 ## Some Stats :
 
-(https://github-readme-streak-stats.herokuapp.com/?user=aadrikasingh18&theme=black-ice)](https://git.io/streak-stats)
-
 <a href="https://github.com/aadrikasingh18">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=react&count_private=true" alt="Aadrika's GitHub Stats" />
 </a>
