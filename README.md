@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 <div align="center">
-<h1>Hello there!</h1>
+<h1>Hi there!</h1>
 </div>
 
 ## I'm Aadrika Singh !
 
-## I'm a student and a  :
+## I'm a student and a developer :
 
 - 🔭 I’m currently working on React.Js
 - 🌱 I’m Pre Final Year B.Tech Student
@@ -42,7 +42,7 @@
 
 ## Some Stats :
 
-<!---(comment hai)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadrikasingh18&theme=black-ice)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadrikasingh18&theme=black-ice)](https://git.io/streak-stats)
 
 <a href="https://github.com/aadrikasingh18">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=react&count_private=true" alt="Aadrika's GitHub Stats" />
