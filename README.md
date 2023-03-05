@@ -42,10 +42,6 @@
 
 ## 📈 Some Stats :
 
-<a href="https://github.com/aadrikasingh18">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=react&count_private=true" alt="Aadrika's GitHub Stats" />
-</a>
-
 <div>
   <img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&hide_border=true&theme=dark" />
 </div> 
