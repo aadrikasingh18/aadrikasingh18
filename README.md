@@ -46,9 +46,9 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aadrikasingh18&theme=react&count_private=true" alt="Aadrika's GitHub Stats" />
 </a>
 
-<!-- <div>
+<div>
   <img alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&hide_border=true&theme=dark" />
-</div> -->
+</div> 
 <div style="display:flex,justify-content:space-around width:100%">
   <img style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadrikasingh18&show_icons=true&hide_border=true&theme=dark" alt="Sanskar's Github Stats" />
   <img style="width:48%" alt="Sanskarsri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true&theme=dark" />
