@@ -43,14 +43,10 @@
 ## 📈 Some Stats :
 
  <img style="width:48%" alt="Aadrika Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true&theme=dark" />
- 
- <br />
 
 <div style="display:flex,justify-content:space-around width:100%">
   <img style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadrikasingh18&show_icons=true&hide_border=true&theme=dark" alt="Sanskar's Github Stats" />
 </div>
-
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&theme=react)](https://github.com/aadrikasingh18/github-readme-stats)
 
