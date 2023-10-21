@@ -18,6 +18,10 @@
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 
+<a href="https://twitter.com/aadrika_singh__" target="_blank"> 
+   <img src="https://imgur.com/7ILl180.png" alt="twitter" width="40" height="40"/> 
+</a>
+
 <a href="mailto:aadrika2010018@akgec.ac.in">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
