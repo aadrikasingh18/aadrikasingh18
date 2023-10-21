@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://twitter.com/aadrika_singh__" target="_blank"> 
-   <img src="https://imgur.com/7ILl180.png" alt="twitter" width="24px"/> 
+   <img align="left" width="24px" src="https://imgur.com/7ILl180.png" alt="twitter" /> 
 </a>
 
 <a href="mailto:aadrika2010018@akgec.ac.in">
