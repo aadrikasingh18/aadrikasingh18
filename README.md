@@ -9,7 +9,7 @@
 ## I'm a student and a developer :
 
 - 🔭 I’m currently working on React.Js
-- 🌱 I’m Pre Final Year B.Tech Student
+- 🌱 I’m Final Year B.Tech Student
 - ⚡ Fun fact : Loves Reading and Travelling
 
 ## Connect with me :
