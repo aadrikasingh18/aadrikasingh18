@@ -12,7 +12,19 @@
 - 🌱 I’m Final Year B.Tech Student
 - ⚡ Fun fact : Loves Reading and Travelling
 
-## Connect with me :
+## Have something cool to share? Connect with me on : 
+
+<a href="https://twitter.com/nisshthap" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="nisshthap" height="50" width="50" />
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nishtha-pandey-4370251bb/" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="nishtha pandey" height="50" width="50" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/_.nishhthaa.__/" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_.nishhthaa.__" height="50" width="50" />
+</a>
 
 <a href="https://www.linkedin.com/in/aadrika-singh-035219205/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -53,13 +65,6 @@
 </div>
 
 <br />
-
-
-Have something cool to share? Connect with me on \
-\
-<a href="https://twitter.com/nisshthap" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="nisshthap" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nishtha-pandey-4370251bb/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="nishtha pandey" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/_.nishhthaa.__/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_.nishhthaa.__" height="50" width="50" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&theme=react)](https://github.com/aadrikasingh18/github-readme-stats)
 
