@@ -14,33 +14,34 @@
 
 ## Have something cool to share? Connect with me on : 
 
-<a href="https://twitter.com/nisshthap" target="blank">
-<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="nisshthap" height="50" width="50" />
-</a> &nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/nishtha-pandey-4370251bb/" target="blank">
-<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="nishtha pandey" height="50" width="50" />
+<a href="https://www.linkedin.com/in/aadrika-singh-035219205/" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Aadrika Singh" height="50" width="50" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/_.nishhthaa.__/" target="blank">
-<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_.nishhthaa.__" height="50" width="50" />
+<a href="mailto:aadrikas04@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="Aadrika Singh" height="50" width="50" />
 </a>
 
-<a href="https://www.linkedin.com/in/aadrika-singh-035219205/">
+<a href="https://twitter.com/aadrika_singh__" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Aadrika Singh" height="50" width="50" />
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/aadrika_singh__" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Aadrika Singh" height="50" width="50" />
+</a>
+
+/*<a href="https://www.linkedin.com/in/aadrika-singh-035219205/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
+</a>*/
 
-<a href="https://twitter.com/aadrika_singh__" target="_blank"> 
+
+/*<a href="https://twitter.com/aadrika_singh__" target="_blank"> 
    <img align="left" width="26px" src="https://imgur.com/7ILl180.png" alt="twitter" /> 
-</a>
+</a>*/
 
-<a href="mailto:aadrika2010018@akgec.ac.in">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-
-<a href="https://www.instagram.com/aadrika_singh__/">
+/*<a href="https://www.instagram.com/aadrika_singh__/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a>
+</a>*/
 
 <br />
 
