@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/aadrika-singh-035219205/" target="blank">
 <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Aadrika Singh" height="50" width="50" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
 
 <a href="mailto:aadrikas04@gmail.com" target="blank">
   <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="Aadrika Singh" height="50" width="50" />
@@ -24,7 +24,7 @@
 
 <a href="https://twitter.com/aadrika_singh__" target="blank">
 <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Aadrika Singh" height="50" width="50" />
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 
 <a href="https://www.instagram.com/aadrika_singh__" target="blank">
 <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Aadrika Singh" height="50" width="50" />
