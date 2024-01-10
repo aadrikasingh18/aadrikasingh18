@@ -30,19 +30,6 @@
 <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Aadrika Singh" height="50" width="50" />
 </a>
 
-/*<a href="https://www.linkedin.com/in/aadrika-singh-035219205/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>*/
-
-
-/*<a href="https://twitter.com/aadrika_singh__" target="_blank"> 
-   <img align="left" width="26px" src="https://imgur.com/7ILl180.png" alt="twitter" /> 
-</a>*/
-
-/*<a href="https://www.instagram.com/aadrika_singh__/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a>*/
-
 <br />
 
 ## Languages and Tools :
