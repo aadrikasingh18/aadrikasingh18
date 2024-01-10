@@ -12,26 +12,6 @@
 - 🌱 I’m Final Year B.Tech Student
 - ⚡ Fun fact : Loves Reading and Travelling
 
-## Have something cool to share? Connect with me on : 
-
-<a href="https://www.linkedin.com/in/aadrika-singh-035219205/" target="blank">
-<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Aadrika Singh" height="50" width="50" />
-</a>
-
-<a href="mailto:aadrikas04@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="Aadrika Singh" height="50" width="50" />
-</a>
-
-<a href="https://twitter.com/aadrika_singh__" target="blank">
-<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Aadrika Singh" height="50" width="50" />
-</a>
-
-<a href="https://www.instagram.com/aadrika_singh__" target="blank">
-<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Aadrika Singh" height="50" width="50" />
-</a>
-
-<br />
-
 ## Languages and Tools :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,6 +38,20 @@
 
 [![Aadrika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadrikasingh18&theme=react)](https://github.com/aadrikasingh18/github-readme-activity-graph)
 
-[linkedin]: https://www.linkedin.com/in/aadrika-singh-035219205/
+## Have something cool to share? Connect with me on : 
 
-[email]: mailto:aadrikas16@gmail.com
+<a href="https://www.linkedin.com/in/aadrika-singh-035219205/" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Aadrika Singh" height="50" width="50" />
+</a>
+
+<a href="mailto:aadrikas04@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="Aadrika Singh" height="50" width="50" />
+</a>
+
+<a href="https://twitter.com/aadrika_singh__" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Aadrika Singh" height="50" width="50" />
+</a>
+
+<a href="https://www.instagram.com/aadrika_singh__" target="blank">
+<img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Aadrika Singh" height="50" width="50" />
+</a>
