@@ -6,9 +6,9 @@
 
 ## I'm Aadrika Singh !
 
-## I'm a student and a developer :
+## I'm a Software Developer :
 
-- 🔭 I’m currently working on React.Js
+- 🔭 I’m currently learning React.Js, React Native, Node.Js
 - 🌱 I’m 2024 graduate
 - ⚡ Fun fact : Loves Reading and Travelling
 
@@ -27,9 +27,9 @@
 
 ## 📈 Some Stats :
 
- <img style="width:48%" alt="Aadrika Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true&theme=react" />
+<!-- <img style="width:48%" alt="Aadrika Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadrikasingh18&count_private=true&show_icons=true&hide_border=true&theme=react" /> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&theme=react)](https://github.com/aadrikasingh18/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadrikasingh18&layout=compact&theme=react)](https://github.com/aadrikasingh18/github-readme-stats)-->
 
 [![Aadrika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadrikasingh18&theme=react)](https://github.com/aadrikasingh18/github-readme-activity-graph)
 
